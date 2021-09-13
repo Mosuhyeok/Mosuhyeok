@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Suhyeok%20&fontSize=90)
-
-
-
+### 백엔드 개발자 지망생 모수혁입니다 !
 
 
 
@@ -21,6 +18,10 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosuhyeok&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=le_effort)](https://solved.ac/le_effort/)
 <!--
 **Mosuhyeok/Mosuhyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
