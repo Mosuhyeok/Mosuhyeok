@@ -18,6 +18,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosuhyeok&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosuhyeok&layout=compact&theme=dracula)](https://github.com/Mosuhyeok)
+
 
 
 
